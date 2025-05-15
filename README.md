@@ -1,8 +1,7 @@
-# codealpha_task1
 
 # Hangman Game
 
-# Features:
+Features:
   Random word selection
   Input validation
   Limited number of incorrect guesses
